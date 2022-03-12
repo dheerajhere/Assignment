@@ -1,0 +1,60 @@
+.main-box{
+    border: 2px solid lightgrey;
+    
+}
+
+.right-nav button{
+ background-color: limegreen;
+ border: none;
+ color: white;
+ border-radius: 8px;
+}
+.welcome{
+    border-radius: 15px;
+}
+h4{
+    color: rgb(0, 32, 121);
+    padding: 1rem;
+}
+.fa-brands{
+    margin-right:1rem ;
+    margin-bottom: 0.6rem;
+}
+.c-box1 p{
+font-size: 12px;
+padding: 1rem 0 0 0;
+color: rgb(141, 141, 141);
+}
+.progress{
+    height: 4px;
+    width: 75%;
+}
+.c-box1{
+    border: 2px solid rgb(173, 173, 173);
+    border-radius: 15px;
+}
+.main-course p{
+    font-size: 12px;
+    padding: 0.5rem 0 0 0;
+    color: rgb(141, 141, 141);  
+}
+.course-box{
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 15px;  
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.logo p{
+    font-size: 12px;
+    text-align: center;
+    
+}
+.footer{
+    border-top: 1px solid rgb(173, 173, 173);
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
